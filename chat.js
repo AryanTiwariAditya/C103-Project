@@ -25,5 +25,3 @@ function addUser()
     window.location = "chat_room.html";
 }
 
-
-
